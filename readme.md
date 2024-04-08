@@ -46,4 +46,4 @@
 
 
 
-![screenshot](./quiz.jpeg)
+![screenshot](./quiz.jpg)
